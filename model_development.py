@@ -209,7 +209,8 @@ with open(os.path.join(base_dir, model_file), 'wb') as f:
     pickle.dump(rf, f)
 
 
-
+# with open(os.path.join(base_dir, model_file), 'rb') as f:
+#     rff = pickle.load(f)
 
 
 
