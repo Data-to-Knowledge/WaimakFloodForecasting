@@ -32,7 +32,7 @@ to_date = '2019-07-1T00:00'
 
 n_hours_shift = 36
 
-model_file = 'waimak_flood_model_v01.skl.pkl'
+model_file = 'waimak_flood_model_v02.skl.pkl'
 
 ####################################
 ### Get data
